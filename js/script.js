@@ -111,7 +111,7 @@ const appreciationLetter = `
 
 <p>Wherever life takes us, I hope we still find our way to be there for each other. Through the happy days, the not-so-good ones, random updates or absolutely pointless conversations - I hope we never lose the comfort of being able to reach out.</p>
 
-<p>I'm really glad our paths crossed. Thank you for the conversations, the little efforts, the encouragement, the random reels, and all the moments that became memories. And thank you for making space for me in your little world.</p>
+<p>I'm really glad our paths crossed. Thank you for the conversations, the little efforts, the encouragement and all the moments that became memories. And thank you for making space for me in your little world.</p>
 
 <p>I'll always be there for you, and I truly mean it. You don't have to have everything figured out or always be okay. If you ever need someone to listen, laugh with you, or simply sit through a random yap session, you know I'm just one text away.</p>
 
