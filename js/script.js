@@ -15,7 +15,7 @@ const memories = [
     date: "MAY 10, 2026",
     title: "The first picture 📸",
     preview: "The first time I saw you.",
-    detail: "This was quite a day, wasn't it? I finally got to see the face behind those messages, got promoted to your main Instagram, and then got so caught up talking that we almost forgot to sleep — our first really long conversation, stretching all the way to 4 AM! And somewhere along the way, a little 'Good morning, beautiful' slipped into your messages. The first time I called you by a cute, affectionate name. 🥹"
+    detail: "This was quite a day, wasn't it? I finally got to see the beautiful face behind those messages, got promoted to your main Instagram, and then got so caught up talking that we almost forgot to sleep - our first really long conversation, stretching all the way to 4 AM! And somewhere along the way, a little 'Good morning beautiful!' slipped into your DM. The first time I called you by an affectionate name. 💌🥹"
  },
   {
     date: "MAY 11, 2026",
@@ -59,11 +59,11 @@ const memories = [
     preview: "Almost an hour of conversations and unexpected comfort.",
     detail: "Life got busy, especially for you, and we hadn't had a proper conversation in so long. But after all the changes and little gaps in our conversations - you called me! And I got to listen to your voice for almost an hour. Seriously???? 🥹 I loved how you made me feel comfortable enough to just open up and be myself. And your sweet reels afterwards? They definitely made me smile. Thank you for making time for me, baby girllll. ❤️"
 },
-  {
+ {
     date: "NOVEMBER 8, 2026 · 11:09 PM",
     title: "Six months of knowing you 💗",
     preview: "One unexpected hello, and half a year of little memories.",
-    detail: "Soooo, it's been six whole months since that unexpected DM! 🥹 From a random hello to late-night conversations, silly reels, firsts, voice notes, little nicknames and memories I never expected to make - there's quite a story here. Things may not be exactly the way they were in the beginning, but every little moment still has its own place in this scrapbook. I'm genuinely glad our paths crossed. Here's to the laughs, the randomness and all the little things that made these six months memorable. ❤️✨"
+    detail: "Soooo, it's been six whole months since that unexpected DM! 🥹 From a random hello to late-night conversations, silly reels, cute nicknames and little memories I never expected to make - there's quite a story here. Things may not be exactly the way they were in the beginning, but every little moment still has its own place in my heart. I'm genuinely glad our paths crossed. Here's to more randomness, endless yaps, being there for each other, being absolutely silly and making many more beautiful memories.......!! ❤️✨"
 },
 ];
 
